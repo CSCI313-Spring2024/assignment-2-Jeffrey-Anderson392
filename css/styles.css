@@ -1,6 +1,8 @@
 body {
     padding-top: 50px;
-    background-color: black;
+    background-image: url("imagesCSS/background.jpg");
+    background-size: cover;
+    
 }
 
 #image {
